@@ -1,3 +1,3 @@
 # Welcome to my Github profile
 
-![My life...](gif/rabbit.gif)
+![My life...](img/rabbit.gif)
