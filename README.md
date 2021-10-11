@@ -1,3 +1,3 @@
 # Welcome to my Github profile
 
-![My life...](https://media.giphy.com/media/R5cL8yEVwIrp6/giphy.gif)
+![My life...](https://giphy.com/gifs/rabbits-R5cL8yEVwIrp6/fullscreen)
